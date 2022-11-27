@@ -36,7 +36,7 @@ const license = [
 
 const readTemp = (data, license) => {
     return `# <${data.project}>
-    ![Github licence](http://img.shields.io/badge/license-${data.licenses}-blue.svg)
+    ![Github licence](http://img.shields.io/github/license/${data.github}/${data.project})
 
     ## Description
     
@@ -62,9 +62,9 @@ const readTemp = (data, license) => {
     
     ## License
     
-    ${data.licenses}
+    This software developed by ${data.github} falls under the ${data.licenses}.
 
-${license.description}
+    ${license.description}
     
     ## How to Contribute
     
