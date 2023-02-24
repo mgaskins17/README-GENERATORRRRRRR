@@ -1,8 +1,8 @@
-# <asdf>
-![MIT License] https://img.shields.io/badge/License-MIT-yellow.svg)
+# <Testing README>
+![MIT License] (https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
 
-asdfl
+Testing markdown for the README challenge
 
 # Table of Contents 
 
@@ -15,28 +15,28 @@ asdfl
 
 ## Installation
 
-asdf
+Open intergarted terminal, use "npm i" to install dependencies then use "node index.js" to run application
 
 ## Usage
 
-asdf
+Please check video
 
 
 ## License
 
-This software developed by asdf falls under the MIT License.
+This software developed by mgaskins17 falls under the MIT License.
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
     
 ## How to Contribute
     
-asdf
+Please don't contribute, this is a resubmission and I'm tired
     
 ## Tests
     
-asdf
+Just run the application
 
 ## Questions
 
-GITHUB: https://github.com/asdf
-Email: asdf;
+GITHUB: https://github.com/mgaskins17
+Email: mattgaskins77@gmail.com;
