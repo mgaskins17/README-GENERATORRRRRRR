@@ -1,7 +1,7 @@
-# asdfad ![GNU LGPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# Testing ReadMe ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
 
-asdf
+Providing a description for the readme
 
 # Table of Contents 
 
@@ -14,28 +14,28 @@ asdf
 
 ## Installation
 
-asdf
+Clone the file to your local hardware then use "npm i" to install the dependencies
 
 ## Usage
 
-asdf
+Use "node index.js" in the terminal to run the application
 
 
 ## License
 
-This software developed by mgaskins17	 falls under the GNU LGPLv3.
+This software developed by mgaskins17 falls under the MIT License.
 
-Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license or the GNU GPLv3. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work.
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
     
 ## How to Contribute
     
-asdf
+Please don't, this is a resubmission and I'm tired
     
 ## Tests
     
-asdf
+I'm providing a video of testing instead
 
 ## Questions
 
-GITHUB: https://github.com/mgaskins17	
+GITHUB: https://github.com/mgaskins17
 Email: mattgaskins77@gmail.com;
