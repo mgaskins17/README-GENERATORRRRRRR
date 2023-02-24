@@ -1,8 +1,7 @@
-# <Testing README>
-![MIT License] (https://img.shields.io/badge/License-MIT-yellow.svg)
+# asdfad ![GNU LGPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ## Description
 
-Testing markdown for the README challenge
+asdf
 
 # Table of Contents 
 
@@ -15,28 +14,28 @@ Testing markdown for the README challenge
 
 ## Installation
 
-Open intergarted terminal, use "npm i" to install dependencies then use "node index.js" to run application
+asdf
 
 ## Usage
 
-Please check video
+asdf
 
 
 ## License
 
-This software developed by mgaskins17 falls under the MIT License.
+This software developed by mgaskins17	 falls under the GNU LGPLv3.
 
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license or the GNU GPLv3. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work.
     
 ## How to Contribute
     
-Please don't contribute, this is a resubmission and I'm tired
+asdf
     
 ## Tests
     
-Just run the application
+asdf
 
 ## Questions
 
-GITHUB: https://github.com/mgaskins17
+GITHUB: https://github.com/mgaskins17	
 Email: mattgaskins77@gmail.com;
