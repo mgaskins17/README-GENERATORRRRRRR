@@ -44,7 +44,7 @@ const license = [
 const readTemp = (data, license) => {
     return (
 `# <${data.project}>
-![${license.name}] ${license.badge})
+![${license.name}] (${license.badge})
 ## Description
 
 ${data.description}
